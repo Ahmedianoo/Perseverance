@@ -1,4 +1,6 @@
+<div align="center">
 # Perseverance
+</div>
 
 <p align="center">
   <img src="media/perseverance.jpg" alt="Perseverance Robot Car" width="700"/>
@@ -33,11 +35,11 @@ The robot navigates a predefined maze using three ultrasonic sensors and a finit
 | E | Height (without wheels) | 5.4 cm |
 | F | Height off the ground | 1.7 cm |
 
-<img src="media/top_view.jpg" alt="Top View of Car Chassis" width="500"/>
+<img src="media/top_view.png" alt="Top View of Car Chassis" width="500"/>
 
 <br><br>
 
-<img src="media/side_view.jpg" alt="Side View of Car Chassis" width="500"/>
+<img src="media/side_view.png" alt="Side View of Car Chassis" width="500"/>
 
 > **Note:** These photos are of the car chassis as built by the team, not a pre-bought kit.
 
@@ -54,7 +56,7 @@ The robot navigates a predefined maze using three ultrasonic sensors and a finit
 
 ## Electrical Design
 
-<img src="media/circuit_diagram.jpg" alt="Electrical Circuit Diagram" width="700"/>
+<img src="media/circuit_diagram.png" alt="Electrical Circuit Diagram" width="700"/>
 
 ---
 
@@ -112,7 +114,7 @@ The robot navigates a predefined maze using three ultrasonic sensors and a finit
 ## FSM Diagram
 
 <div align="center">
-<img src="media/fsm_diagram.jpg" alt="FSM Diagram" width="800"/>
+<img src="media/fsm_diagram.png" alt="FSM Diagram" width="800"/>
 
 </div>
 
