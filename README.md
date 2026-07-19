@@ -1,18 +1,16 @@
-<div align="center">
 # Perseverance
-</div>
-
-<p align="center">
-  <img src="media/perseverance.jpg" alt="Perseverance Robot Car" width="700"/>
-</p>
-
----
 
 ## Overview
 
 **Perseverance** is an autonomous wall-following robot developed for the **Embedded Systems** course at Cairo University.
 
 The robot navigates a predefined maze using three ultrasonic sensors and a finite state machine (FSM). The entire system is implemented in embedded C using PlatformIO, emphasizing modular software architecture, hardware abstraction, and real-time control.
+
+---
+
+<p align="center">
+  <img src="media/perseverance.jpg" alt="Perseverance Robot Car" width="700"/>
+</p>
 
 ---
 
