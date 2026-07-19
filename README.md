@@ -1,5 +1,3 @@
-<div align="center">
-
 # Perseverance
 
 <p align="center">
@@ -18,11 +16,7 @@ The robot navigates a predefined maze using three ultrasonic sensors and a finit
 
 ## Demo
 
-<div align="center">
-
 **[Watch the robot navigate the track](media/track_run.mp4)**
-
-</div>
 
 ---
 
@@ -39,14 +33,11 @@ The robot navigates a predefined maze using three ultrasonic sensors and a finit
 | E | Height (without wheels) | 5.4 cm |
 | F | Height off the ground | 1.7 cm |
 
-<div align="center">
 <img src="media/top_view.jpg" alt="Top View of Car Chassis" width="500"/>
 
 <br><br>
 
 <img src="media/side_view.jpg" alt="Side View of Car Chassis" width="500"/>
-
-</div>
 
 > **Note:** These photos are of the car chassis as built by the team, not a pre-bought kit.
 
@@ -63,10 +54,7 @@ The robot navigates a predefined maze using three ultrasonic sensors and a finit
 
 ## Electrical Design
 
-<div align="center">
 <img src="media/circuit_diagram.jpg" alt="Electrical Circuit Diagram" width="700"/>
-
-</div>
 
 ---
 
