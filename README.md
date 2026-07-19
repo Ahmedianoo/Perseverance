@@ -33,11 +33,13 @@ The robot navigates a predefined maze using three ultrasonic sensors and a finit
 | E | Height (without wheels) | 5.4 cm |
 | F | Height off the ground | 1.7 cm |
 
-<img src="media/top_view.png" alt="Top View of Car Chassis" width="500"/>
+<p align="center">
+  <img src="media/top_view.png" alt="Top View of Car Chassis" width="700"/>
+</p>
 
-<br><br>
-
-<img src="media/side_view.png" alt="Side View of Car Chassis" width="500"/>
+<p align="center">
+  <img src="media/side_view.png" alt="Side View of Car Chassis" width="700"/>
+</p>
 
 > **Note:** These photos are of the car chassis as built by the team, not a pre-bought kit.
 
